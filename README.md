@@ -17,6 +17,9 @@ After connecting the azure service to proper repository, we need to review and c
 If there is no problems or errors with the code or repo connections, the deployment will be started automatically. 
 An url for the deployed website will be created and the web page content will be loaded on clicking this address with in a few moments. 
 
+Deployed web page URL:
+https://icy-pond-056831210.1.azurestaticapps.net
+
 Conclusion:
 This page can be opened by anyone who have this URL. Until we have the subscrpition, this deployment will be available and accessable. 
 Due to the security provided by azure, this web page deployment will be safe and secured.
